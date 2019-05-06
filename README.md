@@ -1,2 +1,0 @@
-# StrategyDesignPattern
-Contains strategy pattern
